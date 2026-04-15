@@ -1,0 +1,22 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" rx="56" fill="#F3F7F2"/>
+  <circle cx="948" cy="158" r="188" fill="#DDEADE"/>
+  <circle cx="228" cy="500" r="212" fill="#E7F1E8"/>
+  <rect x="92" y="92" width="1016" height="446" rx="40" fill="#FFFFFF" stroke="#D4E0D7" stroke-width="4"/>
+  <rect x="132" y="144" width="124" height="124" rx="34" fill="#102018"/>
+  <rect x="148" y="160" width="92" height="92" rx="26" fill="url(#paint0_linear_1_1)"/>
+  <path d="M176 215.5V179.5C176 175.634 179.134 172.5 183 172.5H194.5C205.165 172.5 213 179.687 213 189.739C213 196.58 209.358 202.076 203.338 204.655L214.35 215.5H200.099L190.896 205.969H186.5V215.5H176ZM186.5 197.821H191.4C197.008 197.821 200.1 195.482 200.1 189.739C200.1 184.119 196.954 181.78 191.575 181.78H186.5V197.821Z" fill="#F7FAF8"/>
+  <path d="M220 172.5H231.5L216.5 215.5H205L220 172.5Z" fill="#C8E6C9"/>
+  <text x="296" y="208" fill="#102018" font-family="Georgia, 'Times New Roman', serif" font-size="74" font-weight="700">JEMS3 Leak</text>
+  <text x="296" y="258" fill="#4F6559" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="500" letter-spacing="0.08em">PLATAFORMA ACADÊMICA</text>
+  <rect x="132" y="334" width="936" height="6" rx="3" fill="#D7E3DA"/>
+  <text x="132" y="402" fill="#102018" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700">Submissões, reviews e revisores em uma visão operacional segura.</text>
+  <text x="132" y="452" fill="#4F6559" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400">Sessão autenticada, dossiê normalizado e leitura direta do conteúdo acadêmico.</text>
+  <defs>
+    <linearGradient id="paint0_linear_1_1" x1="148" y1="160" x2="240" y2="252" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#163428"/>
+      <stop offset="0.52" stop-color="#2F6B53"/>
+      <stop offset="1" stop-color="#7FB88A"/>
+    </linearGradient>
+  </defs>
+</svg>
